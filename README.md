@@ -10,3 +10,10 @@ Banks consider and evaluate every loan application based on merits. They check t
 Usually, clients with high risk are less desirable since they have a higher likelihood of defaulting on their loan obligations. This makes clients with low risk more likely to get their loan applications approved.
 
 In summary, the banks checks credit repayment history, the conduct of the client, financial solvency, the client's reputation, and the ability to work with the amount granted as a loan. 
+
+In this code we perform the following:
+1. Loading Libraries
+2. Reading Data
+3. Exploratory Data Analysis
+
+Happy Coding !!!!
